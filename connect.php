@@ -2,10 +2,10 @@
 
 $config ['db'] = array (
 
-	'host' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'dbname' => 'fotbollsgrabbarna' 
+	'host' => 'sql201.byethost7.com',
+	'username' => 'b7_11847952',
+	'password' => 'Zlatan10',
+	'dbname' => 'b7_11847952_fotbollsgrabbarna' 
 
 
 );
