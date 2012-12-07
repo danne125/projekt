@@ -17,5 +17,5 @@ for ($i=0; $i < $spelarquery->rowCount(); $i++) {
 }
 
 
-
+echo "Hej jag har andra timmerkoja till coach"
 ?>
