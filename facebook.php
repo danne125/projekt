@@ -77,7 +77,9 @@ function testAPI() {
 </script>
 
 
-
+<?php
+	https://graph.facebook.com/PAGE_ID/feed?access_token=PAGE_ACCESS_TOKEN&message=Testing
+?>
 
 
 
